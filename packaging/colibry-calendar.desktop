@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Calendar
+Name[ru]=Календарь
+Name[uk]=Календар
+Comment=Plan events and reminders
+Comment[ru]=Планирование событий
+Exec=colibry-calendar
+Icon=colibry-calendar
+Terminal=false
+Categories=Office;Calendar;
+Keywords=calendar;date;event;schedule;
+StartupNotify=true
